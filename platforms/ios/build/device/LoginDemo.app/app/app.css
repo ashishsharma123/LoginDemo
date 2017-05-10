@@ -1,0 +1,29 @@
+@import "nativescript-theme-core/css/core.light.css";
+
+.stackWidth{
+    width:250;
+}
+.txt{
+    margin-left: 10;
+    margin-top: 10;
+    color: white;
+    border-color: white;
+    border-width: 1;
+    width:150;
+}
+.lbl{
+    width:100;
+    color:white;
+}
+.mainLayout{
+    height:100%;
+    align-self: center;
+    vertical-align: middle;
+    background-color: white;
+}
+.btn{
+    background-color: tomato;
+    width:73%;
+    margin-top: 30;
+    color: white;
+}
